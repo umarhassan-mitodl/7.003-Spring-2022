@@ -1,0 +1,177 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: dab57718-5269-44e8-9f92-ac64b2c469f9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 66870b31-072b-47d4-a316-e3874edd12ed
+  name: Calendar
+  pageRef: /pages/lab-calendar
+  weight: 20
+- identifier: 7653c7be-9741-447e-90de-a6b53a877903
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  name: Lab Resources
+  pageRef: /pages/lab-resources
+  weight: 40
+- identifier: e3980838-0bb7-4a70-a85c-5e57560844ed
+  name: Lab Manual
+  pageRef: /pages/7003-lab-manual
+  weight: 50
+- identifier: 7670d955-bb24-4e23-a65e-42b696c945f7
+  name: 'Experiment 1: Genetic Screen'
+  pageRef: /pages/experiment-1-genetic-screen
+  weight: 60
+- identifier: b6a3e37b-39fc-4b65-9180-c825a2012e92
+  name: 'Experiment 2: Testing Mutants'
+  pageRef: /pages/experiment-2-testing-the-945-factor-resistant-mutants
+  weight: 70
+- identifier: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  name: 'Experiment 3: Identifying Mutants'
+  pageRef: /pages/experiment-3-identifying-the-alpha-resistant-mutants-by-plasmid-recovery
+  weight: 80
+- identifier: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  name: 'Experiment 4: Analyzing RNA Expression'
+  pageRef: /pages/experiment-4-analyzing-rna-expression-of-alpha-resistant-mutants
+  weight: 90
+- identifier: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
+  name: 'Experiment 5: Surface Display and Protein Engineering'
+  pageRef: /pages/experiment-5-yeast-surface-display-and-protein-engineering
+  weight: 100
+- identifier: b6e83735-b2ce-40ad-a02e-aecd7551a66e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 110
+- identifier: dfffde89-7e38-4941-8b8d-c59505873b95
+  name: Lab Safety Guidelines
+  pageRef: /pages/lab-safety-guidelines
+  parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  weight: 10
+- identifier: 4cf9122b-fd70-43dd-ac22-b526d77c36db
+  name: Lab Notebook Instructions
+  pageRef: /pages/lab-notebook-instructions
+  parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  weight: 20
+- identifier: 8c4dc102-4680-4aab-be07-e144b8cea3dd
+  name: Helpful Resources and Links
+  pageRef: /pages/external-resources-and-links
+  parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  weight: 30
+- identifier: 6958d9f0-a84c-4524-bcf9-0ec2be792a04
+  name: Lab Day 1
+  pageRef: /pages/lab-day-1
+  parent: 7670d955-bb24-4e23-a65e-42b696c945f7
+  weight: 10
+- identifier: d6ba9fd8-eae5-4399-8d9a-6a0bb1af4fdb
+  name: Lab Day 2
+  pageRef: /pages/experiment-1-lab-day-2
+  parent: 7670d955-bb24-4e23-a65e-42b696c945f7
+  weight: 20
+- identifier: f5bf75fd-f7f8-4762-a93b-63714ea58340
+  name: Lab Day 3
+  pageRef: /pages/experiment-1-lab-day-3
+  parent: 7670d955-bb24-4e23-a65e-42b696c945f7
+  weight: 30
+- identifier: 7b9cb8b5-77c5-44e1-9901-672e967cabdb
+  name: Lab Day 4
+  pageRef: /pages/experiment-1-lab-day-4
+  parent: 7670d955-bb24-4e23-a65e-42b696c945f7
+  weight: 40
+- identifier: de5ce36b-5604-4fd1-9ec7-c626b2ddc6ac
+  name: Lab Day 5
+  pageRef: /pages/experiment-2-day-5
+  parent: b6a3e37b-39fc-4b65-9180-c825a2012e92
+  weight: 10
+- identifier: 48bd527b-737f-42a5-a17d-07d891f8f81f
+  name: Lab Day 6
+  pageRef: /pages/experiment-2-lab-day-6
+  parent: b6a3e37b-39fc-4b65-9180-c825a2012e92
+  weight: 20
+- identifier: 39b626be-972b-414f-8fab-e2b2a1465a10
+  name: Lab Day 7
+  pageRef: /pages/experiment-3-lab-day-7
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 10
+- identifier: 5722f263-2c18-4c7c-8804-08ed85008277
+  name: Lab Day 8
+  pageRef: /pages/experiment-3-lab-day-8
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 20
+- identifier: 2ab1d172-713a-4b3a-854f-ca1be78254bc
+  name: Lab Day 9
+  pageRef: /pages/experiment-3-lab-day-9
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 30
+- identifier: 730ded72-bbd8-4dd6-be7c-b34aa2bc6071
+  name: Lab Day 10
+  pageRef: /pages/experiment-3-lab-day-10
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 40
+- identifier: 33d3ab2d-9329-44f1-bf83-945fb0744e8d
+  name: Lab Day 11
+  pageRef: /pages/experiment-3-lab-day-11
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 50
+- identifier: 81362cfe-9931-4528-b1ca-fe40b5298781
+  name: Lab Day 12
+  pageRef: /pages/experiment-3-lab-day-12
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 60
+- identifier: f98a139d-e5b5-4c40-8902-5589735b33ee
+  name: Lab Day 13
+  pageRef: /pages/experiment-3-lab-day-13
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 70
+- identifier: 4a14285a-bd70-4355-a425-2c55c4d3844d
+  name: Lab Day 14
+  pageRef: /pages/experiment-4-lab-day-14
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 10
+- identifier: e412ab40-c7c8-4c1b-aa13-7f375977c289
+  name: Lab Day 15
+  pageRef: /pages/experiment-4-lab-day-15
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 20
+- identifier: d797aa43-9a6a-47b0-9d53-fa68b984b1fb
+  name: Lab Day 16
+  pageRef: /pages/experiment-4-lab-day-16
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 30
+- identifier: 9a3e5f6a-1a89-4ea7-a02d-15f4c2b19871
+  name: Lab Day 17
+  pageRef: /pages/experiment-4-lab-day-17
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 40
+- identifier: b8979dac-32ae-4c66-9b8c-d406381d4b17
+  name: Lab Day 18
+  pageRef: /pages/experiment-4-lab-day-18
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 50
+- identifier: 874870c4-26af-4c91-becc-9dbd89e436c6
+  name: Lab Day 19
+  pageRef: /pages/experiment-5-lab-day-19
+  parent: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
+  weight: 10
+- identifier: ae68f301-7a8c-4a61-ba69-1697881d7a02
+  name: 'Lab Day 20 '
+  pageRef: /pages/experiment-5-lab-day-20
+  parent: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
+  weight: 20
+- identifier: 04cf3aa2-2b0d-4b36-8daa-267ac11d5ea4
+  name: Lab Day 21
+  pageRef: /pages/experiment-5-lab-day-21
+  parent: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
+  weight: 30
+- identifier: efeb6b24-59a5-40f0-9333-1f0ee69cd4e2
+  name: Lab Day 22
+  pageRef: /pages/experiment-5-lab-day-22
+  parent: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
+  weight: 40
+- identifier: 6421d30f-2cbd-40bd-9df4-a2e9a47b6dcb
+  name: Lab Day 23
+  pageRef: /pages/experiment-5-lab-day-23
+  parent: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
+  weight: 50
