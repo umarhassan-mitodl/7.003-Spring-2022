@@ -34,7 +34,7 @@
     "website": "7003-applied-molecular-biology-lab"
   },
   "course_title": "Applied Molecular Biology Lab",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "7.003 is an experimental biology course. You will spend most of your time in the teaching laboratory practicing fundamental techniques in molecular biology, genetics, and cell biology, and working with the model organism *Saccharomyces cerevisiae* (budding yeast). In addition to learning how to accurately and safely perform these techniques, we want to help you understand how and why they work and what scientific questions they can address. The goal is for you to be able to design your own experiments to perform by the end of the semester.",
   "department_numbers": [
@@ -46,7 +46,6 @@
     "content": "04fb7b60-1769-4d8a-b641-36be4a993cdb",
     "website": "7003-applied-molecular-biology-lab"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Laboratory Assignments",
     "Activity Assignments",

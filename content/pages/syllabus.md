@@ -14,7 +14,7 @@ Lab: 2 sessions / week; one 3-hour session, one 4-hour session
 
 ## Prerequisites
 
-- *7.01x Introductory Biology* ([*7.012*](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/)*,* [*7.013*](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/)*,* [*7.014*](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/)*, 7.015, or* [*7.016*](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/))
+- *7.01x Introductory Biology* ({{% resource_link "b86d29b1-e597-4c54-b228-e040ccf6b008" "*7.012*" %}}*,* {{% resource_link "7b121cea-31e4-474b-9f41-9cfc372abfa8" "*7.013*" %}}*,* {{% resource_link "d8ec873d-d25e-4ed0-8994-8cfb554ae166" "*7.014*" %}}*, 7.015, or* {{% resource_link "7b701546-74e0-4b8d-8696-85e1392345e7" "*7.016*" %}})
 - *7.002 Fundamentals of Experimental Molecular Biology*
 
 ## Course Description
@@ -27,7 +27,7 @@ Please note: The on-campus version of 7.003 contains a Scientific Communication 
 
 ## Laboratory Notebooks and Manuals
 
-Maintaining an updated record of your daily work in the lab is an essential component of research. Therefore, each student is required to maintain an electronic laboratory notebook using the [LabArchives](https://www.labarchives.com/) platform.
+Maintaining an updated record of your daily work in the lab is an essential component of research. Therefore, each student is required to maintain an electronic laboratory notebook using the {{% resource_link "f9bd6af1-1081-4dd7-a6fe-3930961fe129" "LabArchives" %}} platform.
 
 Each student will need a lab manual for 7.003.  The manual contains the experiments and background information for the course and is required to perform the lab and prepare each day’s laboratory notebook entry.  A digital PDF copy of the Spring 2022 lab manual is available in the {{% resource_link "e3980838-0bb7-4a70-a85c-5e57560844ed" "Lab Manual" %}} section.
 

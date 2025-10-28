@@ -8,7 +8,7 @@ uid: 4cf9122b-fd70-43dd-ac22-b526d77c36db
 ---
 ## LabArchives 
 
-The on-campus 7.003 course uses the [LabArchives](https://www.labarchives.com/) platform to maintain electronic laboratory notebooks. Students each create individual accounts on MIT LabArchives, and submit their pre-lab and post-lab assignments there. 
+The on-campus 7.003 course uses the {{% resource_link "f9bd6af1-1081-4dd7-a6fe-3930961fe129" "LabArchives" %}} platform to maintain electronic laboratory notebooks. Students each create individual accounts on MIT LabArchives, and submit their pre-lab and post-lab assignments there. 
 
 ## Pre-Lab Notebook Entry Guidelines
 

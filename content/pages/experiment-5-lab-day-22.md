@@ -18,7 +18,7 @@ Part 5.5: Analysis of magnetic bead sorting optimization results
 
 {{% resource_link "4fbe8184-04d4-420d-a494-0fc3d73a5ed2" "Day 22 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 22 Post-Lab Notebook Tips and Reminders
 
