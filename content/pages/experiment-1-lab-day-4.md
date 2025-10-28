@@ -22,7 +22,7 @@ Part 1.9: Streaking α-factor-resistant candidates onto new plates
 
 {{% resource_link "345cb4eb-2b29-48bc-b31d-1f89dc4f0ec1" "Day 4 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 4 Pre-Lab Tips and Reminders
 

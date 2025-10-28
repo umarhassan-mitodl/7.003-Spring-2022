@@ -30,7 +30,7 @@ Part 5.4: Yeast display FACS sorting
 
 Day 23 FACS Data (PDF)
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 21 Post-Lab Notebook Tips and Reminders
 

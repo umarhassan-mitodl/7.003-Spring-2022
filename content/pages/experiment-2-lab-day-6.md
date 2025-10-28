@@ -26,7 +26,7 @@ Part 2.7: Analysis of sporulation assay results
 
 {{% resource_link "f7a78fab-8436-402c-a82a-84bd21731f32" "Day 6 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 6 Pre-Lab Tips and Reminders
 

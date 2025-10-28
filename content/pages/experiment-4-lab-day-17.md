@@ -22,7 +22,7 @@ Part 4.8: Preparation of FUS1 qPCR samples
 
 {{% resource_link "94db81e4-63f8-455a-8fb4-e78f992419ed" "Day 17 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 17 Pre-Lab Notebook Tips and Reminders
 

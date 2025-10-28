@@ -22,7 +22,7 @@ Part 4.9: Analysis of the FUS1 qPCR results
 
 {{% resource_link "13308d76-f4f0-42d3-a863-23def04922b3" "Day 18 qPCR Analysis Worksheet (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 18 Pre-Lab Notebook Tips and Reminders
 

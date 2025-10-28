@@ -18,11 +18,11 @@ Part 5.6: Clonal analysis of potential target binders
 
 {{% resource_link "e88557c0-080a-4e00-a573-9827f08d1c91" "Day 23 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab & Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "4d6ce092-9526-4388-8fdd-c5a4e0421d52" "Pre-Lab & Post-Lab Instructions" %}}
 
 ## Supporting Files
 
-[Day 19 Protein Alignment Worksheet (PDF)](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/resources/mit7_003_s22_day19_protein_alignment_worksheet_pdf/)
+{{% resource_link "ae7fc2bf-096e-4491-9db2-2cc4d3e8cf52" "Day 19 Protein Alignment Worksheet (PDF)" %}}
 
 {{% resource_link "95511bd0-51b5-40b7-9bb2-60aa2289868a" "Day 23 Binder Sequences (PDF)" %}}  
  
@@ -35,7 +35,7 @@ You have sequenced the binder variant gene from seven different miniprep plasmid
 
 The DNA sequence of the “wild-type” (WT) binder gene is also in this file. This WT sequence encodes the original scaffold protein (which presumably would not have any natural binding affinity to the SARS-CoV-2 target on its own) that the surface display library is based on. To create the original library (e.g., for use in the initial magnetic bead sorting), random mutations were introduced into this scaffold protein to generate genetic diversity. The seven binder gene clones you isolated after your FACS screening are all derived from the randomly mutated variants of this original WT scaffold gene.
 
-1. Translate the DNA sequence for each of the seven binder genes (Binders 1–7) and the original WT scaffold gene into their corresponding amino acid sequence. Perform a protein alignment for all eight proteins (Binders 1–7 and the WT scaffold) using either SnapGene or [NCBI COBALT](https://www.ncbi.nlm.nih.gov/tools/cobalt/re_cobalt.cgi) (refer back to the Day 19 post-lab worksheet, linked above) if you need instructions on how to perform the alignment). Take a screenshot of this protein alignment and insert the JPG of that alignment into your Day 23 post-lab on LabArchives. 
+1. Translate the DNA sequence for each of the seven binder genes (Binders 1–7) and the original WT scaffold gene into their corresponding amino acid sequence. Perform a protein alignment for all eight proteins (Binders 1–7 and the WT scaffold) using either SnapGene or {{% resource_link "eb7d7abb-1cb9-4054-b719-b3977bc684d9" "NCBI COBALT" %}} (refer back to the Day 19 post-lab worksheet, linked above) if you need instructions on how to perform the alignment). Take a screenshot of this protein alignment and insert the JPG of that alignment into your Day 23 post-lab on LabArchives. 
 2. How many different unique binder proteins are represented in the seven clones that you sequenced? 
 3. How many variable amino acid residues are there among the seven binders with respect to the WT scaffold? 
 4. Which region(s) of the scaffold protein most likely make up the binding interface between the binder protein and the SARS-CoV-2 target? Explain your reasoning. 
